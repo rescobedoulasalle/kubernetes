@@ -72,9 +72,7 @@
 
 ### TEMAS
 - Volúmenes persistentes.
-- Docker vs VMs
-- Arquitectura de Docker
-- Comandos en Docker
+- kubectl
 
 ## CONTENIDO DE LA GUÍA
 
